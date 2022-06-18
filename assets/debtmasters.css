@@ -1,0 +1,19 @@
+h1{align-content: center!important;
+    margin: 2rem;
+color: royalblue !important;}
+h2{align-content: center!important;
+    margin: 2rem;
+color: rgb(0, 46, 185) !important;}
+p{align-content: center;
+    margin: 2rem;
+color: black!important;}
+body{
+    background-color: rgb(255, 255, 255)!important;
+}
+h3{align-content: center!important;
+    margin: 2rem;
+color: rgb(0, 0, 0) !important;
+}
+li{
+    display: inline-block;
+}
